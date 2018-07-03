@@ -1,0 +1,4 @@
+WindowId,Day,Session,Method,Start Date,End Date,Fulfilment Centre,Fulfilment Type,Start Time,End Time,Web Cutoff Day,Web Cutoff Time,Pickup Day,Pickup Time,Region,Limit,IsDelete
+59230,Sunday,1111 CCAM,Pickup,4/8/2015,31/12/2099,TUGGERAH,HOMESHOP,08:00,11:00,Saturday,18:00,Sunday,05:15,1111 Tuggerah LOCAL,40,
+59231,Sunday,1111 CCMD,Pickup,4/8/2015,31/12/2099,TUGGERAH,HOMESHOP,11:00,16:00,Saturday,23:00,Sunday,10:00,1111 Tuggerah LOCAL,40,
+59232,Sunday,1111 CCPM,Pickup,4/8/2015,31/12/2099,TUGGERAH,HOMESHOP,16:00,19:00,Sunday,11:00,Sunday,14:30,1111 Tuggerah LOCAL,40,
